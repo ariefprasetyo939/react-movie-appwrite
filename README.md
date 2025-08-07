@@ -2,7 +2,7 @@
 A clean and responsive React application that displays trending movies with a functional search feature. Powered by The Movie Database (TMDb) API and Appwrite as the backend service.
 
 🔧 Tech Stack
-Frontend: React 18+, Axios, TailwindCSS / Bootstrap
+Frontend: React 19 and TailwindCSS
 Backend (BaaS): Appwrite (for future scalability)
 API Source: TMDb API
 
